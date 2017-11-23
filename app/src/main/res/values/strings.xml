@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="proin">PROIN</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="signin">SIGN IN</string>
+    <string name="register">REGISTER</string>
+    <string name="fullname">FULL NAME</string>
+    <string name="nric">NRIC</string>
+    <string name="phone">PHONE</string>
+    <string name="email">EMAIL</string>
+    <string name="dob">DATE OF BIRTH (DD/MM/YYYY)</string>
+    <string name="product">Product</string>
+    <string name="service">My Services</string>
+    <string name="cart">Cart</string>
+    <string name="setting">Setting</string>
+    <string name="critical">Critical</string>
+    <string name="medical">Medical</string>
+    <string name="accident">Accident</string>
+    <string name="amount">Please select Your coverage amount (RM):</string>
+    <string name="age">Age :</string>
+    <string name="payment_mode">Premium Payment Mode :</string>
+    <string name="year">Total Payment Year :</string>
+    <string name="monthlypay">Monthly Pay(RM) :</string>
+    <string name="addtocart">Add To Cart</string>
+    <string name="ecp_prompt">ECP</string>
+
+    <string-array name="ecp">
+        <item>100,000</item>
+        <item>200,000</item>
+        <item>300,000</item>
+
+    </string-array>
+
+
+    <string-array name="paymode"></string-array>
+    <string-array name="mode">
+        <item>Monthly</item>
+        <item>Annual</item>
+
+
+    </string-array>
+
+</resources>
